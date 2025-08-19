@@ -1,0 +1,23 @@
+{
+  "name": "discordjs-v14-bot-template",
+  "version": "3.0.0",
+  "description": "A Discord bot commands, components and events handler based on discord.js v14 and fully written in JavaScript.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "TFAGaming",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "better-sqlite3": "^12.2.0",
+    "colors": "^1.4.0",
+    "crypto": "^1.0.1",
+    "discord.js": "^14.21.0",
+    "discordjs-v14-bot-template": "file:",
+    "dotenv": "^16.6.1",
+    "nodemon": "^3.1.10",
+    "quick-yaml.db": "^1.2.2"
+  }
+}
